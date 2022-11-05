@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fahridanaa
+👋 Hi, I’m @Fahridanaa
 
 
 <!---
