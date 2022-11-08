@@ -1,5 +1,4 @@
-#👋 Hi, I’m @Fahridanaa
-
+# Hi, I’m @Fahridanaa
 
 <!---
 Fahridanaa/Fahridanaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
