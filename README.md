@@ -7,7 +7,3 @@
   <a href="https://www.linkedin.com/in/fahridana-ahmad-rayyansyah/">LinkedIn</a> |
   <a href="mailto:fahridanaaa@gmail.com">Email</a>
 </p>
-<p align="center">
-  <b>Hi, I'm Fahridana Ahmad Rayyansyah.</b>
-  I code.
-</p>
